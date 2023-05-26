@@ -49,5 +49,8 @@ svn co https://github.com/messense/aliyundrive-webdav/trunk/openwrt package/aliy
 # svn co https://github.com/kiddin9/openwrt-packages/trunk/adguardhome package/adguardhome
 # svn co https://github.com/kiddin9/openwrt-packages/trunk/luci-app-adguardhome package/luci-app-adguardhome
 svn co https://github.com/vernesong/OpenClash/trunk/luci-app-openclash package/luci-app-openclash
+git clone https://github.com/lisaac/luci-lib-docker.git package/luci-lib-docker
+git clone https://github.com/lisaac/luci-app-dockerman.git package/luci-app-dockerman
+
 
 
